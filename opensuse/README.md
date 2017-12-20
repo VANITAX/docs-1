@@ -16,9 +16,9 @@ WARNING:
 
 # Supported tags and respective `Dockerfile` links
 
--	[`42.2` (*x86_64//Dockerfile*)](https://github.com/openSUSE/docker-containers-build/blob/1d0f087e51f5913ed932bf3fa52817dfacbdf48c/x86_64//Dockerfile)
--	[`42.3`, `latest`, `leap` (*x86_64//Dockerfile*)](https://github.com/openSUSE/docker-containers-build/blob/b148e2fb43d8e4a7ec3dcfed631c0249f3e33c4d/x86_64//Dockerfile)
--	[`tumbleweed` (*x86_64//Dockerfile*)](https://github.com/openSUSE/docker-containers-build/blob/4ef0aa53acc6603d54402570705721f2c7b62796/x86_64//Dockerfile)
+**No supported tags found!**
+
+It is very likely that `opensuse` does not support the currently selected architecture (`i386`).
 
 # Quick reference
 
